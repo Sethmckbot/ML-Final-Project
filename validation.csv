@@ -1,4 +1,5 @@
-﻿2.00903E+16,175,221485,navigate_click,undefined,5,,280.4421782,-19.70583676,653,321,,,boss,tunic.capitol_0.hall,,0,0,1,12-May
+﻿session_id,index,elapsed_time,event_name,name,level,page,room_coor_x,room_coor_y,screen_coor_x,screen_coor_y,hover_duration,text,fqid,room_fqid,text_fqid,fullscreen,hq,music,level_group
+2.00903E+16,175,221485,navigate_click,undefined,5,,280.4421782,-19.70583676,653,321,,,boss,tunic.capitol_0.hall,,0,0,1,12-May
 2.00903E+16,176,222334,person_click,basic,5,,272.9834916,-19.23358065,649,321,,"What are you still doing here,  Jolie?",boss,tunic.capitol_0.hall,tunic.capitol_0.hall.boss.talktogramps,0,0,1,12-May
 2.00903E+16,177,223251,person_click,basic,5,,240.8484261,-228.2174499,628,459,,Go find your grampa and get to work!,boss,tunic.capitol_0.hall,tunic.capitol_0.hall.boss.talktogramps,0,0,1,12-May
 2.00903E+16,178,223735,navigate_click,undefined,5,,331.7146888,-220.6272255,688,454,,,,tunic.capitol_0.hall,,0,0,1,12-May
