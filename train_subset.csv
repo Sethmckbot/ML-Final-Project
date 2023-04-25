@@ -1,0 +1,166 @@
+﻿session_id,index,elapsed_time,event_name,name,level,page,room_coor_x,room_coor_y,screen_coor_x,screen_coor_y,hover_duration,text,fqid,room_fqid,text_fqid,fullscreen,hq,music,level_group
+2.00903E+16,0,0,cutscene_click,basic,0,,-413.9914052,-159.3146862,380,494,,undefined,intro,tunic.historicalsociety.closet,tunic.historicalsociety.closet.intro,0,0,1,0-4
+2.00903E+16,1,1323,person_click,basic,0,,-413.9914052,-159.3146862,380,494,,"Whatcha doing over there, Jo?",gramps,tunic.historicalsociety.closet,tunic.historicalsociety.closet.gramps.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,2,831,person_click,basic,0,,-413.9914052,-159.3146862,380,494,,Just talking to Teddy.,gramps,tunic.historicalsociety.closet,tunic.historicalsociety.closet.gramps.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,3,1147,person_click,basic,0,,-413.9914052,-159.3146862,380,494,,I gotta run to my meeting!,gramps,tunic.historicalsociety.closet,tunic.historicalsociety.closet.gramps.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,4,1863,person_click,basic,0,,-412.9914052,-159.3146862,381,494,,"Can I come, Gramps?",gramps,tunic.historicalsociety.closet,tunic.historicalsociety.closet.gramps.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,5,3423,person_click,basic,0,,-412.9914052,-157.3146862,381,492,,"Sure thing, Jo. Grab your notebook and come upstairs!",gramps,tunic.historicalsociety.closet,tunic.historicalsociety.closet.gramps.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,6,5197,person_click,basic,0,,478.4850795,-199.9716787,593,485,,"See you later, Teddy.",teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,7,6180,person_click,basic,0,,503.3551279,-168.619913,609,453,,I get to go to Gramps's meeting!,teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,8,7014,person_click,basic,0,,510.733442,-157.7206419,615,442,,Now where did I put my notebook?,teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,9,7946,person_click,basic,0,,512.048005,-153.7436306,616,438,,\u00f0\u0178\u02dc\u00b4,teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_0,0,0,1,0-4
+2.00903E+16,10,9133,navigate_click,undefined,0,,501.1100351,-160.7481638,605,445,,,teddy,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,11,10263,person_click,basic,0,,501.0849906,-164.7623661,605,445,,\u00f0\u0178\u02dc\u00b4,teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_5,0,0,1,0-4
+2.00903E+16,12,12030,navigate_click,undefined,0,,510.0814898,-106.3520933,614,386,,,photo,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,13,13030,observation_click,basic,0,,486.8774707,-98.53828842,614,386,,I love these photos of me and Teddy!,photo,tunic.historicalsociety.closet,tunic.historicalsociety.closet.photo,0,0,1,0-4
+2.00903E+16,14,14814,navigate_click,undefined,0,,273.99141,-196.8023714,406,486,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,15,15498,navigate_click,undefined,0,,185.7084604,-205.8065333,363,492,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,16,16046,navigate_click,undefined,0,,0.583564829,-225.6912958,234,510,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,17,17462,navigate_click,undefined,0,,350.3442699,-173.9486286,766,454,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,18,18164,navigate_click,undefined,0,,-37.96171554,-255.7111275,301,542,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,19,18796,navigate_click,undefined,0,,-133.2367517,-251.3760329,203,531,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,20,19380,navigate_click,undefined,0,,-253.4018437,-253.0230185,201,530,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,21,20014,navigate_click,undefined,0,,-385.0962304,-253.1346583,197,529,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,22,20681,navigate_click,undefined,0,,-564.0557389,-216.5074161,133,492,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,23,21413,navigate_click,undefined,0,,-720.3253325,-207.4299184,99,487,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,24,22013,navigate_click,undefined,0,,-818.1288936,-194.2446429,92,476,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,25,22996,navigate_click,undefined,0,,-924.6925896,-254.2805415,75,539,,,notebook,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,26,24348,notification_click,basic,0,,-472.142708,-117.9428456,554,394,,Found it!,,tunic.historicalsociety.closet,tunic.historicalsociety.closet.notebook,0,0,1,0-4
+2.00903E+16,27,25766,object_click,close,0,,-206.4714675,199.1552798,822,76,,,notebook,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,28,28113,navigate_click,undefined,1,,-587.6578793,-27.91691316,441,303,,,retirement_letter,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,29,32229,notification_click,basic,1,,-182.5581627,-1.906500965,767,305,,Gramps is in trouble for losing papers?,,tunic.historicalsociety.closet,tunic.historicalsociety.closet.retirement_letter.hub,0,0,1,0-4
+2.00903E+16,30,33063,notification_click,basic,1,,-182.500704,-55.88829643,767,359,,This can't be right!,,tunic.historicalsociety.closet,tunic.historicalsociety.closet.retirement_letter.hub,0,0,1,0-4
+2.00903E+16,31,34245,notification_click,basic,1,,-182.4865231,-55.88380352,767,359,,Gramps is a great historian!,,tunic.historicalsociety.closet,tunic.historicalsociety.closet.retirement_letter.hub,0,0,1,0-4
+2.00903E+16,32,36433,object_click,close,1,,-113.4848316,241.1167324,836,62,,,retirement_letter,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,33,36346,navigate_click,undefined,1,,-453.4847197,-193.8832321,496,497,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,34,36896,navigate_click,undefined,1,,-381.2449884,-22.45463197,525,316,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,35,37445,navigate_click,undefined,1,,-358.8320328,54.8478224,462,249,,,tobasement,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,36,39845,navigate_click,undefined,1,,-234.2478168,-77.05221185,245,376,,,janitor,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,37,41297,observation_click,basic,1,,-400.311667,-117.4764543,179,405,,Hmm. Button's still not working.,janitor,tunic.historicalsociety.basement,tunic.historicalsociety.basement.janitor,0,0,1,0-4
+2.00903E+16,38,41898,navigate_click,undefined,1,,-418.3705975,-120.2643331,172,407,,,,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,39,43413,navigate_click,undefined,1,,-486.2659767,-109.1128179,151,399,,,toentry,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,40,44196,navigate_click,undefined,1,,385.587985,-135.7766801,461,413,,,groupconvo,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,41,45062,cutscene_click,basic,1,,93.81170338,-60.34544965,338,368,,Let's get started. The Wisconsin Wonders exhibit opens tomorrow!,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,42,46046,cutscene_click,basic,1,,133.9788709,-85.71509357,390,386,,Who wants to investigate the shirt artifact?,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,43,47362,cutscene_click,basic,1,,125.9314449,-83.37417719,390,385,,Not Leopold here. He's been losing papers lately.,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,44,48112,cutscene_click,basic,1,,123.7082016,-80.06477678,389,383,,Hey!,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,45,49514,cutscene_click,basic,1,,117.0079419,-76.79150901,385,381,,"It's true, they do keep going missing lately.",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,46,50144,cutscene_click,basic,1,,116.9971934,-76.79055728,385,381,,See?,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,47,50794,cutscene_click,basic,1,,115.3654051,-81.67534497,384,384,,"Besides, I already figured out the shirt.",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,48,52413,cutscene_click,basic,1,,113.7358773,-84.93196915,383,386,,It's a women's basketball jersey!,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,49,52328,object_hover,basic,1,,,,,,7899,,groupconvo,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,50,57277,object_click,basic,1,,856.2693578,69.7626062,839,291,,,report,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,51,58244,object_click,close,1,,848.1275396,401.948788,834,87,,,report,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,52,58845,cutscene_click,basic,1,,296.1122669,-106.1006665,495,399,,That settles it.,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,53,59913,cutscene_click,basic,1,,294.4839033,-106.1006665,494,399,,"Wells, finish up your report.",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,54,60161,cutscene_click,basic,1,,292.8555396,-107.7290302,493,400,,"Leopold, why don't you help me set up in the Capitol?",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,55,60762,cutscene_click,basic,1,,286.3420851,-106.1006665,489,399,,We need to talk about that missing paperwork.,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,56,61410,cutscene_click,basic,1,,284.7137215,-106.1006665,488,399,,"Will do, Boss.",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,57,61960,cutscene_click,basic,1,,284.7137215,-106.1006665,488,399,,"Hey Jo, let's take a look at the shirt!",groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,58,62879,cutscene_click,basic,1,,201.667176,-185.8904847,437,448,,undefined,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,59,65459,cutscene_click,basic,1,,279.8286305,6.25642438,485,330,,undefined,groupconvo,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo,0,0,1,0-4
+2.00903E+16,60,66460,navigate_click,undefined,2,,320.0334089,5.628519247,488,325,,,boss,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,61,68110,person_click,basic,2,,129.2929016,6.132434925,425,321,,Your grampa is waiting for you in the collection room.,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.talktogramps,0,0,1,0-4
+2.00903E+16,62,68627,navigate_click,undefined,2,,115.846334,5.939366401,420,321,,,wells,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,63,69893,person_click,basic,2,,-6.260457549,-77.50281005,344,374,,Why don't you go catch up with your grampa?,wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.talktogramps,0,0,1,0-4
+2.00903E+16,64,70043,navigate_click,undefined,2,,-17.4154993,-77.08884501,337,374,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,65,70694,navigate_click,undefined,2,,-226.2533567,-105.1251892,246,389,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,66,71211,navigate_click,undefined,2,,-569.858265,-40.15483773,94,347,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,67,71943,navigate_click,undefined,2,,-471.452697,198.8153726,250,203,,,directory,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,68,73927,object_click,close,2,,439.023444,416.0267893,833,74,,,directory,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,69,74676,navigate_click,undefined,2,,-536.4119416,64.45987581,234,290,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,70,75143,navigate_click,undefined,2,,-763.386244,-0.644733437,114,330,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,71,75711,navigate_click,undefined,2,,-1013.383354,14.0248808,11,321,,,tocollection,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,72,77926,cutscene_click,basic,2,,-79.87475027,-81.48708004,269,381,,What a fascinating artifact!,cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,73,79223,cutscene_click,basic,2,,-138.9949092,5.876387929,307,329,,undefined,cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,74,80211,cutscene_click,basic,2,,-17.90019745,28.35165953,424,317,,"Wow, that's so cool, Gramps!",cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,75,81192,cutscene_click,basic,2,,-28.70611544,28.59021709,418,317,,Can I take a closer look?,cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,76,82276,cutscene_click,basic,2,,-44.91105598,30.07047182,407,316,,Hmmm. Shouldn't you be doing your homework?,cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,77,82944,cutscene_click,basic,2,,-36.31662334,24.31750667,413,320,,It's already all done!,cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,78,83877,cutscene_click,basic,2,,-39.20981901,25.75848484,411,319,,"Plus, my teacher said I could help you out for extra credit!",cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,79,84876,cutscene_click,basic,2,,-34.89432089,22.87999205,414,321,,"Well, that's good enough for me.",cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,80,85893,cutscene_click,basic,2,,-36.33408158,22.88003238,413,321,,"Go ahead, take a peek at the shirt!",cs,tunic.historicalsociety.collection,tunic.historicalsociety.collection.cs,0,0,1,0-4
+2.00903E+16,81,87213,navigate_click,undefined,2,,53.57365141,127.5641034,439,239,,,tunic,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,82,87242,object_hover,basic,2,,,,,,400,,tunic,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,83,87877,object_click,basic,2,,-15.14627734,12.13570677,403,321,,,tunic,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,84,89383,object_click,basic,2,,125.3355329,267.2453703,502,144,,,tunic.hub.slip,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,85,89809,notification_click,basic,2,,-86.89123485,-96.81513992,355,397,,This looks like a clue!,,tunic.historicalsociety.collection,tunic.historicalsociety.collection.tunic.slip,0,0,1,0-4
+2.00903E+16,86,91725,notification_click,basic,2,,-48.10504925,-91.04463378,382,393,,I'll record this in my notebook.,,tunic.historicalsociety.collection,tunic.historicalsociety.collection.tunic.slip,0,0,1,0-4
+2.00903E+16,87,92242,object_hover,undefined,2,,,,,,3949,,tunic.hub.slip,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,88,93883,object_click,close,2,,615.4532365,373.879996,843,70,,,tunic,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,89,94710,navigate_click,undefined,2,,-112.8801706,57.21334166,337,290,,,gramps,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,90,95883,person_click,basic,2,,-60.44270574,-253.8875767,377,505,,Find anything?,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,91,96092,person_click,basic,2,,-61.37951346,-252.7606372,377,504,,Yes! This old slip from 1916.,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,92,96741,person_click,basic,2,,-63.21349721,-252.8922451,376,504,,I knew it!,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,93,97342,person_click,basic,2,,-63.3287433,-252.9306833,376,504,,I'm not so sure that this is a basketball jersey.,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,94,97991,person_click,basic,2,,164.0553176,-199.6865093,534,467,,"Wait, you mean Wells is wrong?!",gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,95,98859,person_click,basic,2,,277.7534327,-166.5851202,613,444,,Could be. But we need evidence!,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,96,99459,person_click,basic,2,,368.432843,-176.6616809,676,451,,Why don't you head to the Basketball Center and rustle up some clues?,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,97,99958,person_click,basic,2,,368.4321195,-176.6619221,676,451,,Sure!,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,98,100713,person_click,basic,2,,400.0984687,-176.662028,698,451,,I'll be at the Capitol. Let me know if you find anything!,gramps,tunic.historicalsociety.collection,tunic.historicalsociety.collection.gramps.found,0,0,1,0-4
+2.00903E+16,99,101042,navigate_click,undefined,3,,400.0983709,-175.2226667,698,450,,,,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,100,101759,navigate_click,undefined,3,,590.6918009,-139.6068881,806,422,,,,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,101,102324,navigate_click,undefined,3,,638.6302332,-138.9257589,807,421,,,toentry,tunic.historicalsociety.collection,,0,0,1,0-4
+2.00903E+16,102,103491,navigate_click,undefined,3,,17.17555792,-112.7181631,750,391,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,103,104309,navigate_click,undefined,3,,-0.13188975,-59.28658012,706,357,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,104,105058,navigate_click,undefined,3,,112.6181493,-60.99275793,704,361,,,,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,105,105775,navigate_click,undefined,3,,103.8639729,77.12084896,610,277,,,tostacks,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,106,108090,navigate_click,undefined,3,,55,-59.43454489,495,372,,,,tunic.historicalsociety.stacks,,0,0,1,0-4
+2.00903E+16,107,108924,navigate_click,undefined,3,,-23.75521158,162.4674969,404,156,,,outtolunch,tunic.historicalsociety.stacks,,0,0,1,0-4
+2.00903E+16,108,109825,observation_click,basic,3,,14.35742604,-156.2536861,444,485,,Better check back later.,outtolunch,tunic.historicalsociety.stacks,tunic.historicalsociety.stacks.outtolunch,0,0,1,0-4
+2.00903E+16,109,110975,navigate_click,undefined,3,,9.854628681,-307.7731392,440,639,,,toentry,tunic.historicalsociety.stacks,,0,0,1,0-4
+2.00903E+16,110,113357,navigate_click,undefined,3,,716.9820422,173.8217942,774,218,,,tobasement,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,111,115890,navigate_click,undefined,3,,-165.1473711,-60.32493912,408,364,,,janitor,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,112,117142,observation_click,basic,3,,-7.493484147,-61.71887852,480,365,,Hmm. Button's still not working.,janitor,tunic.historicalsociety.basement,tunic.historicalsociety.basement.janitor,0,0,1,0-4
+2.00903E+16,113,117625,navigate_click,undefined,3,,143.2494767,-18.50675731,582,334,,,tocloset,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,114,119723,navigate_click,undefined,3,,-272.0290932,-82.8728126,468,410,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,115,120191,navigate_click,undefined,3,,-48.97375014,-123.0753986,650,439,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,116,120624,navigate_click,undefined,3,,-42.33798129,-247.13164,604,555,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,117,121324,navigate_click,undefined,3,,136.4946217,-233.3830979,665,521,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,118,121857,navigate_click,undefined,3,,231.4906797,-239.1603431,669,521,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,119,124623,navigate_click,undefined,3,,478.4553593,-169.4927738,719,447,,,teddy,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,120,126323,person_click,basic,3,,156.3789851,-245.4760251,270,525,,\u00f0\u0178\u02dc\u00b4,teddy,tunic.historicalsociety.closet,tunic.historicalsociety.closet.teddy.intro_0_cs_5,0,0,1,0-4
+2.00903E+16,121,126790,navigate_click,undefined,3,,111.9462459,-234.4188688,220,514,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,122,127408,navigate_click,undefined,3,,-30.67852566,-167.3070945,144,446,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,123,127990,navigate_click,undefined,3,,-187.4566845,-219.3917722,128,505,,,,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,124,128640,navigate_click,undefined,3,,-347.8888734,132.7185101,145,150,,,tobasement,tunic.historicalsociety.closet,,0,0,1,0-4
+2.00903E+16,125,130863,navigate_click,undefined,3,,-539.5205441,-102.1431209,26,394,,,toentry,tunic.historicalsociety.basement,,0,0,1,0-4
+2.00903E+16,126,133289,navigate_click,undefined,3,,955.5152578,-12.02104369,811,337,,,tomap,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,127,135124,map_hover,basic,3,,,,,,234,,tunic.historicalsociety,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,128,135256,map_hover,basic,3,,,,,,17,,tunic.kohlcenter,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,129,135990,map_click,undefined,3,,168.0026473,-142.2901346,263,417,,,tunic.kohlcenter,tunic.historicalsociety.entry,,0,0,1,0-4
+2.00903E+16,130,137223,navigate_click,undefined,3,,-667.9738084,-76,329,406,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,131,137956,navigate_click,undefined,3,,-594.6111601,-18,365,348,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,132,138673,navigate_click,undefined,3,,-750.8734411,161,160,169,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,133,139324,navigate_click,undefined,3,,-398.3959385,-34,538,364,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,134,139722,navigate_click,undefined,3,,-294.8860032,-76,638,406,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,135,140257,navigate_click,undefined,3,,-231.8017023,-74,637,404,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,136,140740,navigate_click,undefined,3,,-133.8909388,-58,637,388,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,137,141205,navigate_click,undefined,3,,-22.32923626,-58,637,388,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,138,141790,navigate_click,undefined,3,,120.0479362,-57,660,387,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,139,142456,navigate_click,undefined,3,,275.7393765,-54,691,384,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,140,142889,navigate_click,undefined,3,,357.454716,-53,692,383,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,141,143672,navigate_click,undefined,3,,502.7932843,-47,699,377,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,142,144007,navigate_click,undefined,3,,545.6754637,-47,699,377,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,143,144805,navigate_click,undefined,3,,676.6131855,89,729,241,,,plaque,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,144,147973,object_click,basic,3,,530.6016479,-98,541,428,,,plaque.face.date,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,145,152513,notification_click,basic,3,,523.7321646,-110,534,440,,That's it!,,tunic.kohlcenter.halloffame,tunic.kohlcenter.halloffame.plaque.face.date,0,0,1,0-4
+2.00903E+16,146,152721,notification_click,basic,3,,523.732308,-112,534,442,,The slip is from 1916 but the team didn't start until 1974!,,tunic.kohlcenter.halloffame,tunic.kohlcenter.halloffame.plaque.face.date,0,0,1,0-4
+2.00903E+16,147,153521,object_click,basic,3,,523.7323251,-112,534,442,,,plaque,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,148,153655,object_hover,undefined,3,,,,,,6350,,plaque.face.date,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,149,154188,object_click,close,3,,792.7323287,270,803,60,,,plaque,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,150,154971,cutscene_click,basic,3,,462.732329,-57,473,387,,Our shirt is too old to be a basketball jersey!,togrampa,tunic.kohlcenter.halloffame,tunic.kohlcenter.halloffame.togrampa,0,0,1,0-4
+2.00903E+16,151,155754,cutscene_click,basic,3,,337.732329,-49,348,379,,I need to get to the Capitol and tell Gramps!,togrampa,tunic.kohlcenter.halloffame,tunic.kohlcenter.halloffame.togrampa,0,0,1,0-4
+2.00903E+16,152,156239,navigate_click,undefined,4,,337.7323297,-51,348,381,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,153,156838,navigate_click,undefined,4,,30.19674513,-51,95,381,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,154,157439,navigate_click,undefined,4,,-157.0731545,-65,35,395,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,155,157972,navigate_click,undefined,4,,-301.8052548,-72,34,402,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,156,158683,navigate_click,undefined,4,,-467.5672686,-51,33,381,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,157,159021,navigate_click,undefined,4,,-606.0037145,-50,33,380,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,158,160023,navigate_click,undefined,4,,-761.6680486,30,19,300,,,,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,159,160705,navigate_click,undefined,4,,-920.2397434,35,20,295,,,toentry,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,160,161405,map_hover,basic,4,,,,,,250,,toentry,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,161,161822,map_hover,basic,4,,,,,,17,,tunic.kohlcenter,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,162,162438,map_click,undefined,4,,-538.0933757,6,462,324,,,tunic.capitol_0,tunic.kohlcenter.halloffame,,0,0,1,0-4
+2.00903E+16,163,164023,navigate_click,undefined,4,,240.8569878,-69.35957988,415,343,,,chap1_finale,tunic.capitol_0.hall,,0,0,1,0-4
+2.00903E+16,164,194860,checkpoint,basic,4,,,,,,,,chap1_finale_c,tunic.capitol_0.hall,,0,0,1,0-4
